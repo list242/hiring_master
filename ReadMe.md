@@ -84,3 +84,22 @@ async function run(executor: IExecutor, queue: AsyncIterable<ITask>, maxThreads 
 У коректного решения `npm run test` дает следующий вывод:
 
 <img width="440" alt="Code_RLL5YHVeFu" src="https://github.com/user-attachments/assets/76743e2a-5fdb-4d19-8d3e-0a0a8f01c6b8">
+
+
+## 📊 Результаты тестирования и процесс разработки
+
+**Первая итерация (3 небольших ошибки, которые были быстро исправлены):**
+
+![Test Results Iteration 1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/102599903/3e8a3c48-e650-44d7-b6ad-09db21aef224/image.jpg?AWSAccessKeyId=ASIA2F3EMEYE32T7ME5Y&Signature=qR8T4jLHvVgFxhlZXLXtDnTy44Y%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCNNucZKi6KYDtmMK1ra55Y6fdTHZDPVLrLoVJjMoMjFQIhAICBJVVUgdysz2%2FuYZ9bjs1TQxW9QBmO3yk8Q0%2BEPx%2F7KvMECFEQARoMNjk5NzUzMzA5NzA1IgwudhkpO2vmuSzpsTAq0AT7nHX7JObIbjajFCRTOcwUQxrQ5Nq%2BzNDod556AapFLv6i7PB%2FM2XwFDOPJfU%2BmpRR%2BuODQLupc0VY8D2TiMw0R2Ev1CHL4SUWcfLA8ANP0oMZyfenX1JqlqV75InJIum1QnlcxDdZXsCaC5jU1%2Blf0qm%2FO0enmEC5MjiuKaE7MonTFJsCwuTHRT0xkN7lz968xpsTP3n9NBCx9LQ7wlepL8b6tVRmu0CmikG8UgIDc0%2Fx%2FmzRDaPEVlzLjkTrDeOakfyRD3XGuXXBGgmLzaCRJR6i1tvQ5Re1zQelJOa8Z7QnHb31oETkl9xr6CRvNu842AxqoxkSApHY9wmiXDZWYnKOueeGve%2FdCchkZnXPt%2FX3wp9AoQrNra31D5Q6VKlaEYpRypbbjVXauKhAvUFJ9JQFxa8xcz2b04fra50A38vqgYQALlW7dtu0Uud7opiQBii0axcrKE3Kg3p5SK%2FgbRv%2BL9M5HetCn714bsJcQl%2B1d%2BavwIrDE%2Bp2z8oK2RiuT%2FZwQ8fywwRuLCNGyCS6BrU54fonuTDkk3VYoHx83wzOvBFhzxaX2ZLsByeJiqW8SEoE1GyKojSkeull4hwl4ekvUjEF7U1fxKoNKHaUrQZ23GCHOzKujqCXx222%2BLptk7m3tGBshAN%2BA90y4TE%2FfMgOhD%2FowUkFeJuxtjRFVBXLlUMUhMQxpHBZaAomRY7QNI3h1hZPave4eEHkZCj00hylhD4TS8eWXjM7gShiVwauKdvh5xIxKTGE9A7JoO5qXSgGeNb07iJwLzKBT5f5MOL86scGOpcB89TGmvGQGAwhMyyW3w84pVbVNMIr7iuxm98Uyd5qVp34ytdBbpcl7qPjlZfUspb3C2gICoWWnBUB9QrjD7TQS5WSJqvSHI8EDonMx86Bpegb8Ly83y6QbGBttHCzHDAK%2FoO%2BJz0iQivA2514N6PMdBGFcHAN0Id46YW3MYwEsARTqMN4V784luVGZss4Vtavlj6lEeZ8cw%3D%3D&Expires=1761265965)
+
+> **Результаты первой итерации:**
+> - 30 тестов пройдено ✅
+> - 5 тестов с замечаниями по производительности (исправлены в финальной версии)
+
+### 💬 Отзыв от HR
+
+> **Матвей, вот теперь всё отлично!**
+> 
+> Вижу, что вы успешно выполнили тестовое задание.
+> 
+> *Anastasia Korneva*
